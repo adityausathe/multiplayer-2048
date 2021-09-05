@@ -16,7 +16,7 @@ Terminal-based implementation of popular 2048 puzzle game. In this game, the pla
    - ←(Press 4)
 ## Functionality
 - Imitated standard rules and flow of classic 2048 game.
-- Multiplayer-support, High-score tracking support.
+- **Additional features**: Multiplayer-support, High-score tracking support.
 ## Implementation 
 - Entire implementation is done using standard C libraries; no UI libraries.
 
